@@ -47,14 +47,14 @@ Love this project? Here’s how you can support:
 
 ### 💻 Step 2: Run It Locally, Setup Video, Live Preview
 
-Want to run this project on your own machine? We've got you covered:
+> Want to run this project on your own machine? We've got you covered:
 👉 [Setup & Live Preview Link](https://techwithemma.gumroad.com/l/nphhyz)
 
 
 
-### 🚀 [Step 3]: Get the Extended Version — Stripe Payments Video (Free Trial), Full Source Code, Deployment & More etc
+### 🚀 [Step 3]: Get the Extended Version — Stripe Payment Video (Free Trial), Full Source Code, Deployment & More.
 
-This is the missing piece — the Stripe payment engine that powers your SaaS business.
+This is the missing piece — the Stripe payment that powers your SaaS.
 👉 [Get the Extended Version](https://techwithemma.gumroad.com/l/gasvc)
 
 * Free Trial + Monthly & Yearly Plan
