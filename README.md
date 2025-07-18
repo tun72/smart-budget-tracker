@@ -1,7 +1,7 @@
 # 🌟 Advanced MERN AI Finance SaaS Platform - Finora
 
 > This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [Click here to obtain license](https://your-license-link.com) and 👉 [here to learm more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
+> 👉 [Click here to obtain license](https://your-license-link.com) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
 
 ## ❤️ Support the Channel
 
@@ -34,7 +34,7 @@ Love this project? Here’s how you can support:
 
 - 💳 [Premium] Upgrades via Stripe — Free Trial, Monthly & Yearly Plans, Easy Plan Switching 👉 [Get It Here](https://techwithemma.gumroad.com/l/gasvc)
 
----
+
 
 ## 🔧 How to Use This Project
 
@@ -43,16 +43,14 @@ Love this project? Here’s how you can support:
 > Learn how it all works, including the folder structure, integration, AI config, and more.
 > 👉 [Watch the Course](https://www.youtube.com/watch?v=2S7Y2wewF6I)
 
----
 
 ### 💻 Step 2: Run It Locally, Setup Video, Live Preview
 
 Want to run this project on your own machine? We've got you covered:
 👉 [Setup & Live Preview Link](https://techwithemma.gumroad.com/l/nphhyz)
 
----
 
-### 🚀 Step 3: Get the Extended Version — Payment (Free Trial w/Stripe), Setup Video, Deployment, Complete Source code etc
+### 🚀 Step 3: Get the [Extended Version] — Stripe Payments Video (Free Trial), Full Source Code, Deployment & More etc
 
 This is the missing piece — the Stripe payment engine that powers your SaaS business.
 👉 [Get It Here](https://techwithemma.gumroad.com/l/gasvc)
@@ -62,7 +60,7 @@ This is the missing piece — the Stripe payment engine that powers your SaaS bu
 * Full Stripe Integration & Webhooks
 * Setup Video (Run locally)
 * Complete Full Source Code
-* plus Support
+* Plus Support
 ---
 
 ## 📜 License Information
