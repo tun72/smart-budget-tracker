@@ -55,7 +55,7 @@ Want to run this project on your own machine? We've got you covered:
 ### 🚀 [Step 3]: Get the Extended Version — Stripe Payments Video (Free Trial), Full Source Code, Deployment & More etc
 
 This is the missing piece — the Stripe payment engine that powers your SaaS business.
-👉 [Get It Here](https://techwithemma.gumroad.com/l/gasvc)
+👉 [Get the Extended Version](https://techwithemma.gumroad.com/l/gasvc)
 
 * Free Trial + Monthly & Yearly Plan
 * Switch between Monthly ↔️ Yearly Plan
