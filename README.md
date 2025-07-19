@@ -1,7 +1,7 @@
 # 🌟 Advanced MERN AI Finance SaaS Platform - Finora
 
 > This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [Click here to obtain license](https://your-license-link.com) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
+> 👉 [Click here to obtain license](https://techwithemma.gumroad.com/l/huytmd) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
 
 ## ❤️ Support the Channel
 
@@ -67,7 +67,7 @@ This is the missing piece — the Stripe payment that powers your SaaS.
 
 ## 📜 License Information
 
-A paid license is required for commercial use. To obtain a commercial license, please visit 👉 [here](https://your-license-link.com)
+A paid license is required for commercial use. To obtain a commercial license, please visit 👉 [Here](https://techwithemma.gumroad.com/l/huytmd)
 
 For more details about license, please refer to the [TECHWITHEMMA-LICENSE.md](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md).
 
