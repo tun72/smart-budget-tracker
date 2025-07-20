@@ -13,9 +13,10 @@ export const processReportJob = async () => {
   let processedCount = 0;
   let failedCount = 0;
 
-  //july 1,  june 1 - 30
-  const from = startOfMonth(subMonths(now, 3));
-  const to = endOfMonth(subMonths(now, 3));
+  //Today july 1, then run report for -> june 1 - 30 
+//Get Last Month because this will run on the first of the month
+  const from = startOfMonth(subMonths(now, 1));
+  const to = endOfMonth(subMonths(now, 1));
 
   // const from = "2025-04-01T23:00:00.000Z";
   // const to = "2025-04-T23:00:00.000Z";
