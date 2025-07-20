@@ -56,7 +56,7 @@ const Billing = () => {
           </p>
 
           <p className="text-base font-medium">
-            🔓 <span className="text-green-600">Get instant access now:</span>
+            🔓 <span className="text-green-600">Get it here:</span>
             <a
               className="text-blue-500 underline ml-1"
               href="https://tinyurl.com/extended-stripe-integration"
