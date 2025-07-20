@@ -59,7 +59,7 @@ const Billing = () => {
             🔓 <span className="text-green-600">Get instant access now:</span>
             <a
               className="text-blue-500 underline ml-1"
-              href="https://tinyurl.com/extended-stripe-integration "
+              href="https://tinyurl.com/extended-stripe-integration"
               target="_blank"
               rel="noopener noreferrer"
             >
