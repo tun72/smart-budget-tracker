@@ -64,7 +64,7 @@ const ExpensePieChart = (props: { dateRange?: DateRangeType }) => {
               </span>
               <div className="flex items-center gap-2">
                 <span className="text-xs text-muted-foreground whitespace-nowrap">
-                  {formatCurrency(entry.value)}
+                  {formatCurrency(entry.value, { compact: true })}
                 </span>
                 <span className="text-xs text-muted-foreground/60">
                   ({formatPercentage(entry.percentage, { decimalPlaces: 0 })})
@@ -133,7 +133,7 @@ const ExpensePieChart = (props: { dateRange?: DateRangeType }) => {
                               y={viewBox.cy}
                               className="fill-foreground text-2xl font-bold"
                             >
-                              ${totalSpent.toLocaleString()}
+                              MMK {totalSpent.toLocaleString()}
                             </tspan>
                             <tspan
                               x={viewBox.cx}
